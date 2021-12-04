@@ -14,5 +14,5 @@ After using my best judgement to decide a single genre i went through and remove
 Other than that this data did not need to much cleaning before it could be used
 
 Vizualization
-
+![](Images/PDS.PNG)
 ![](Images/PDS_2.PNG)
