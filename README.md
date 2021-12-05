@@ -7,9 +7,9 @@ What game title had the best over all review from the sample i had chosen
 
 Data Process
 
-I went through IGN and grabbed the scores, titles ,genre and the person who left the review and looked up developers and publishers to round out the set. At the end if there were
-blanks I would either remove them or go back and find the missing piece. I also would make judgement calls on the genre i didnt want too many and tried to keep them limited.
-After using my best judgement to decide a single genre i went through and removed games that belonged to a genre that only had 1-9 titles to try and keep the data small and simple
+I went through IGN and grabbed the scores, titles ,genre and the person who left the review.
+The hardest part of completing the data set was getting the right genre, because so many titles fit the description fort multiple genres it was hard figure out the right one.
+After using my best judgement to decide a single genre i went through and removed games that belonged to a genre that only had 1-9 titles to try and keep the data set compact and not have genres that only had a few titles in it.
 Other than that this data did not need to much cleaning before it could be used
 
 Vizualization
