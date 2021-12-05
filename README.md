@@ -33,7 +33,7 @@ And from here you can see that there are 3 games that got the highest base revie
 
 Analysis
 
-I used Tukey's % numbers to find the important values for the scoring. The numbers i got were 
+I used Tukey's 5 numbers to find the important values for the scoring. The numbers i got were 
 2 6 7 8 10
 
 This showed me that the lowest score was a 2, The lower-hinge was a 6, the median was a score of 7, the upper hinge was an 8, and the max was a 10
