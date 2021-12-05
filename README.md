@@ -37,5 +37,5 @@ I used Tukey's 5 numbers to find the important values for the scoring. The numbe
 
 This showed me that the lowest score was a 2, The lower-hinge was a 6, the median was a score of 7, the upper hinge was an 8, and the max was a 10
 
-Out of the sample set I had it was interesting to see that nothing really score too low. The lowest was a 2 but that was only on review and the median was a 6.
+Out of the sample set I had it was interesting to see that nothing really score too low. The lowest was a 2 but that was only on review and the average 7
 So most of the games that got reviews did atleast better than a 5.
