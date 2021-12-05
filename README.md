@@ -25,6 +25,12 @@ Average of the genre ratings
 Out of my sample it looks like:
 Action and shooter had the highest ratings overall but platformer just squeeked by with the average(this probably due to not equal amounts of genre in this sample)
 
+
+![](Images/PDS_3.PNG)
+
+And from here you can see that there are 3 games that got the highest base review
+
+
 Analysis
 
 I used Tukey's % numbers to find the important values for the scoring. The numbers i got were 
