@@ -1,7 +1,6 @@
 Motivation
 
-I have played video games for most of my life but have never done and looking into the best genre or what the best title is. I may not have gone out of my way to find the best 
-of the best of the the samepl size I have for this project I wanted to answer some questions about the video game industry. The couple questions I had in mind are:
+I have played video games for most of my life but have never done and looking into the best genre or what the best title is. With the sample size I have for this project I wanted to answer some questions about the video game industry. The couple questions I had in mind are:
 Based on IGN reviews what genre seemed to have the overall better reviews.
 What game title had the best over all review from the sample i had chosen
 
